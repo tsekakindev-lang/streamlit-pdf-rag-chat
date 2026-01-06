@@ -20,7 +20,7 @@ A local PDF Q&A app that lets you:
 
 ## 📸 Screenshot
 
-### Chatroom
+### UI
 
 ![App Screenshot](docs/screenshot.png)
 
@@ -28,6 +28,9 @@ A local PDF Q&A app that lets you:
 
 ![Upload & Reindex](docs/screenshot_upload.png)
 
+### Chat
+
+![Chat & Sources](docs/screenshot_chat.png)
 
 ---
 
