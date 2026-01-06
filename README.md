@@ -20,7 +20,14 @@ A local PDF Q&A app that lets you:
 
 ## 📸 Screenshot
 
+### Chatroom
+
 ![App Screenshot](docs/screenshot.png)
+
+### Upload
+
+![Upload & Reindex](docs/screenshot_upload.png)
+
 
 ---
 
