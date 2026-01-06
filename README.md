@@ -53,11 +53,17 @@ A local PDF Q&A app that lets you:
 
 🐍 Python 3.10+ (3.11 recommended)
 
+- [![Python 3.10+ Install](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/) — Download and install the latest version of Python 3.10 or higher.
+
 🧰 Ollama installed and running
+
+- [![Ollama Install](https://img.shields.io/badge/Ollama-Download-yellow?style=for-the-badge&logo=ollama)](https://ollama.com/download) — Install Ollama for local LLM execution.
 
 📦 An Ollama model pulled locally (default in code: `deepseek-r1:14b`)
 
 🧠 A local embedding model folder at `./bge-large-zh-v1.5`
+
+- [![Model Page](https://img.shields.io/badge/HuggingFace-Model-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/BAAI/bge-large-zh-v1.5) — Reference and download page
 
 ---
 
@@ -150,9 +156,7 @@ Open the local Streamlit URL shown in the terminal. 🌐
 
 ## 🛠️ Configuration (inside rag_web.py)
 
-```python
 🔧 Key settings you may want to adjust:
-```
 
 ### 🧠 Embeddings model path:
 
